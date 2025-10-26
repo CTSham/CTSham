@@ -1,7 +1,7 @@
 <!-- Profile Header -->
-<h1 align="center">Hey, I'm Corey — <i>Code by Corey</i> 👋</h1>
+<h1 align="center">Hey, I'm Corey — <i>Swift Designs</i> 👋</h1>
 <p align="center">
-  Frontend Software Engineer • Creative Builder • Entrepreneur  
+  Full-Stack Developer • Creative Builder • Entrepreneur  
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ---
 
 ### 🧰 Tech Toolbox
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Redux Toolkit • Tailwind CSS • Framer Motion • PostgreSQL • Docker • UI/UX • SEO
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Redux Toolkit • Tailwind CSS • Framer Motion • PostgreSQL • Docker • UI/UX • SEO • Node.js • Express.js • MongoDB
 
 ---
 
@@ -62,7 +62,7 @@ HTML • CSS • JavaScript • TypeScript • React • Next.js • Redux Toolk
 ---
 
 ### 📫 Connect
-- 🌐 Portfolio: **[codebycorey.dev](https://codebycorey.dev)**  
+- 🌐 Portfolio: **[swiftdesigns.studio](https://swiftdesigns.studio)**  
 - 💼 LinkedIn: **[ctshamburger](https://www.linkedin.com/in/ctshamburger/)**  
 - 📸 Instagram: **[@shamburgercorey](https://instagram.com/shamburgercorey/)**  
 - 🎵 TikTok: **[@ctsham](https://tiktok.com/@ctsham)**  
